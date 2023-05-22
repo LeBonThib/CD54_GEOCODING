@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cd54-geocoding-v6", "cd54-geocoding-v6\cd54-geocoding-v6.csproj", "{930C506F-6A3A-4C3A-88AA-49B86D30B950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{930C506F-6A3A-4C3A-88AA-49B86D30B950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930C506F-6A3A-4C3A-88AA-49B86D30B950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930C506F-6A3A-4C3A-88AA-49B86D30B950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930C506F-6A3A-4C3A-88AA-49B86D30B950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40859D48-16CF-4009-9798-90CE3D9CEA04}
+	EndGlobalSection
+EndGlobal

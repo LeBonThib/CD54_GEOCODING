@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NcmeRMuy9FieMYH5AlSqYrq72NdPmrYAPZYkDDyjxOzr54buXm1qHfplEtgiRRQoK2ws7Ij5O3aHBUgGqyuvFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tpernet\\Documents\\cd54-geocoding-v6\\cd54-geocoding-v6\\cd54-geocoding-v6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tpernet\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\tpernet\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
+    "C:\\Users\\tpernet\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512",
+    "C:\\Users\\tpernet\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512",
+    "C:\\Users\\tpernet\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\tpernet\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
